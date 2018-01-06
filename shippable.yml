@@ -6,5 +6,5 @@ branches:
 
 build:
   ci:
-    - ./install-terraform.sh
+    - ./installprereqs.sh
     
