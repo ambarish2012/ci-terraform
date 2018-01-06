@@ -22,5 +22,6 @@ export PATH=~/terraform/:$PATH
 ' >>~/.bashrc
 
 source ~/.bashrc
+which terraform
 terraform version
 
