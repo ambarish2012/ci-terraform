@@ -16,7 +16,6 @@ curl -o terraform.zip $terraform_url
 unzip terraform.zip
 popd
 
-sudo apt-get update
-sudo apt-get install --assume-yes tree
-tree
+./terraform/terraform version
+
 
